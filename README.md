@@ -1,7 +1,7 @@
 # Movie-Trailer-Website
 First project for the Full Stack Web Developer Nanodegree
 # Introduction
-This is the first project for the Full Stack Web Developer Nanodegree Program with Udacity.  This is a back end code to make a website listing your favorite movies as well as showing the trailer, a movie description, and title of the movie for others to enjoy. The end result of this code is to develop a website.  This website should show the trailer of the movie on the screen when you click on the movie image.
+This is the first project for the Full Stack Web Developer Nanodegree Program with Udacity.  This is a back end code to make a website listing your favorite movies as well as showing the trailer, a movie description, and title of the movie for others to enjoy. The end result of this code is to develop a website, which should show the trailer of the movie on the screen when you click on the movie image.
 # Requirements
 You will need to use python Version 2.7 or greater as well as a web browser (I.E. Chrome).
 # Details
