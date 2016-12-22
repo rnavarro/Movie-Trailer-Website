@@ -22,7 +22,8 @@ minions = media.Movie("Minions",
 # minions.show_trailer()
 
 mulan = media.Movie("Mulan",
-                    "A movie about a girl trying to save her father and China.",
+                    "A movie about a girl trying to save her father and "
+                    "China.",
                     "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3"
                     "/Movie_poster_mulan.JPG/220px-Movie_poster_mulan.JPG",
                     # NOQA
